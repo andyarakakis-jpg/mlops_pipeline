@@ -16,3 +16,6 @@ __pycache__/
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Resultados de los modelos (los genera model_training_evaluation.py)
+artifacts/
